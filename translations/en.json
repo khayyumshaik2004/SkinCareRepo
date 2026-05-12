@@ -1,0 +1,45 @@
+{
+    "main_title": "SkinCraft AI",
+    "title": "Your Personal Skin Analyst.",
+    "subtitle": "Upload a clear image of your skin to instantly detect your skin type and unlock a customized skincare routine.",
+    "analyze_button": "Analyze My Skin & Get Recommendations",
+    "home":"Home",
+    "upload_heading": "Analyze Your Skin",
+    "upload_note": "Supported formats: JPG, JPEG, PNG. Please use a well-lit, clear image.",
+    "why_title": "Why You'll Adore SkinCraft AI",
+    "feature1_title": "Instant Results",
+    "feature1_text": "Classification in seconds.",
+    "feature2_title": "Personalized Reports",
+    "feature2_text": "Customized product recommendations.",
+    "feature3_title": "Expert-Trained AI",
+    "feature3_text": "Model built on clinical data.",
+    "feature4_title": "Skincare Products",
+    "feature4_text": "Curated product suggestions.",
+    "footer_cta": "Ready for clear skin?",
+    "footer_button": "BOOK NOW (Simulated)",
+    "result_title": "Your Skin Analysis is Complete!",
+    "result_subtitle": "Discover your skin type and see your custom-curated skincare plan below.",
+    "classification": "Classification",
+    "predicted_skin_type": "Your Predicted Skin Type:",
+    "image_analyzed": "Image Analyzed:",
+    "skin": "Skin",
+    "personal_recommendations": "Personalized Recommendations",
+    "important_tip": "Important Tip",
+    "acne_tip": "Your skin type is prone to acne. Consider using non-comedogenic products and maintaining a regular cleansing routine.",
+    "dry_tip": "Hydration is key! Look for ingredients like Hyaluronic Acid and Ceramides to repair your skin barrier.",
+    "oil_tip": "Focus on lightweight, oil-free formulations and incorporating gentle exfoliation to manage shine.",
+    "buy_now": "Buy Now",
+    "analyze_another": "Analyze Another Image",
+    "listen_skin_tips": "Listen to Skin Care Tips for Clear and Healthy Skin",
+    "audio_title": "Skin Care Tips Audio",
+    "audio_not_supported": "Your browser does not support the audio element.",
+    "audio_desc": "Listen to expert tips on how to care for your skin based on your analysis.",
+    "skin_types": {
+    "Acne": "Acne",
+    "Dry": "Dry",
+    "Oily": "Oily"
+    }
+
+}
+
+
